@@ -54,4 +54,18 @@ Handled and removed null values
 
 Standardized inconsistent data formats
 
-🔍
+
+**Data Analysis with some queries.**
+
+📈 Results
+The queries provided insights such as:
+
+Monthly sales trends
+
+Top-performing customers
+
+Gender-based transaction analysis
+
+Customer age averages
+
+Duplicate and null entry management
